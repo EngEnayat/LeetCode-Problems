@@ -14,6 +14,7 @@ This repository contains my solutions to various LeetCode problems.
 | 6  | [🚀 Link List Palindrom](https://leetcode.com/problems/palindrome-linked-list/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LinkListPalind.cpp)  |
 | 7  | [🚀 POW(X,Y)](https://leetcode.com/problems/powx-n/description/?utm_source=instabyte.io&utm_medium=referral&utm_campaign=interview-master-100) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/powXY.cpp)  |
 | 8  | [🚀 Last Word Lenght](https://leetcode.com/problems/length-of-last-word/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LastWordLenght.cpp)  |
+| 9  | [🚀 Reverse Integer ](https://leetcode.com/problems/reverse-integer/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ReverseInt.cpp)  |
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
