@@ -15,6 +15,7 @@ This repository contains my solutions to various LeetCode problems.
 | 7  | [🚀 POW(X,Y)](https://leetcode.com/problems/powx-n/description/?utm_source=instabyte.io&utm_medium=referral&utm_campaign=interview-master-100) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/powXY.cpp)  |
 | 8  | [🚀 Last Word Lenght](https://leetcode.com/problems/length-of-last-word/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LastWordLenght.cpp)  |
 | 9  | [🚀 Reverse Integer ](https://leetcode.com/problems/reverse-integer/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ReverseInt.cpp)  |
+| 9  | [🚀 Valid Anagram ](https://leetcode.com/problems/valid-anagram/?envType=problem-list-v2&envId=hash-table) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ValidAnagram.cpp)  |
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
