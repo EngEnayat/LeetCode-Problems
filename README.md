@@ -19,6 +19,7 @@ This repository contains my solutions to various LeetCode problems.
 | 11  | [🚀  Intersection of Two Arrays ](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/intersectionArrauys.cpp)  |
 | 12  | [🚀  Majority Elements ](https://leetcode.com/problems/majority-element/description/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MajorityElement.cpp)  |
 | 13  | [🚀  First Unique Character In A String ](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/FirstUniqueCharacter.cpp)  |
+| 14  | [🚀  Isomorphic Strings ](https://leetcode.com/problems/isomorphic-strings/description/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/isomorphicStrings.cpp)  |
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
