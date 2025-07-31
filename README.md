@@ -24,6 +24,7 @@ This repository contains my solutions to various LeetCode problems.
 | 16  | [🚀  Linked List Cycle ](https://leetcode.com/problems/linked-list-cycle/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LinkedListCycle.cpp)  |
 | 17  | [🚀  Missing Number ](https://leetcode.com/problems/missing-number/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/missingNumber.cpp)  |
 | 18  | [🚀  Contain Duplicate II ](https://leetcode.com/problems/contains-duplicate-ii/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ContainDupII.cpp)  |
+| 19  | [🚀  Remove All Adjacent Duplicates In String ](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/AdjacentDup.cpp)  |
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
