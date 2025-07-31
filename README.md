@@ -26,6 +26,7 @@ This repository contains my solutions to various LeetCode problems.
 | 18  | [🚀  Contain Duplicate II ](https://leetcode.com/problems/contains-duplicate-ii/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ContainDupII.cpp)  |
 | 19  | [🚀  Remove All Adjacent Duplicates In String ](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/AdjacentDup.cpp)  |
 | 20  | [🚀  Min Stack ](https://leetcode.com/problems/min-stack/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MinStack.cpp)  |
+| 21  | [🚀 Implement Queue Using Stacks   ](https://leetcode.com/problems/implement-queue-using-stacks/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/Queue2Stacks.cpp)  |
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
