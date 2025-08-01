@@ -29,6 +29,7 @@ This repository contains my solutions to various LeetCode problems.
 | 21  | [🚀 Implement Queue Using Stacks   ](https://leetcode.com/problems/implement-queue-using-stacks/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/Queue2Stacks.cpp)  |
 | 22  | [🚀 Count Number of Bad Pairs   ](https://leetcode.com/problems/count-number-of-bad-pairs/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/BadPairs.cpp)  |
 | 23  | [🚀 Linked List Cycle II   ](https://leetcode.com/problems/linked-list-cycle-ii/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LinkedCycleII.cpp)  |
+| 24  | [🚀 Intersection Of Two Linked Lists   ](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/IntersectListII.cpp)  |
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
