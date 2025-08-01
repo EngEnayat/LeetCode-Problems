@@ -33,8 +33,7 @@ class Solution {
                 Reversed.pop();
             }
             if(IsNegative) result = -result;
-            if(result < INT_MIN || result > INT_MAX)
-            return 0;
+            //if(result < INT_MIN || result > INT_MAX) return 0;
             return result;
         }
     };
