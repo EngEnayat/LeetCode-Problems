@@ -30,6 +30,7 @@ This repository contains my solutions to various LeetCode problems.
 | 22  | [🚀 Count Number of Bad Pairs   ](https://leetcode.com/problems/count-number-of-bad-pairs/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/BadPairs.cpp)  |
 | 23  | [🚀 Linked List Cycle II   ](https://leetcode.com/problems/linked-list-cycle-ii/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LinkedCycleII.cpp)  |
 | 24  | [🚀 Intersection Of Two Linked Lists   ](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/IntersectListII.cpp)  |
+| 24  | [🚀 Maximum Depth of Binary Tree  ](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MaxDepthBT.cpp)  |
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
