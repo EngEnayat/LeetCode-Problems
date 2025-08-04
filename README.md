@@ -36,6 +36,7 @@ This repository contains my solutions to various LeetCode problems.
 | 28  | [🚀 Balanced Binary Tree ](https://leetcode.com/problems/balanced-binary-tree/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/BalancedBT.cpp)  |
 | 29  | [🚀 Swap Nodes In Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SwapNodePairs.cpp)  |
 | 30  | [🚀 Binary Tree Level Order Traversal ](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LevelOrderTraversalBinaryTree.cpp)  |
+| 31  | [🚀 Binary Tree Zigzag Level Order Traversal ](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/zigzagTraversalBT.cpp)  |
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
