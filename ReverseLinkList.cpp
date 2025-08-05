@@ -14,22 +14,10 @@ struct ListNode {
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        //if(head->next == NULL) return head;
-        stack<int> rev;
-        ListNode *ptr = new ListNode;
-        ptr = head;
-        while(head)
-        {
-            rev.push(head->val);
-            head = head->next;
-        }
-        head = ptr;
-        while(ptr)
-        {
-            ptr->val = rev.top();
-            ptr = ptr->next;
-            rev.pop();
-        }
-        return head;
+       if(!head || !head->next) return head;
+       ListNode* newHead = reverseList(head->next);
+       head->next->next = head;
+       head->next = nullptr;
+       return newHead; 
     }
 };
