@@ -42,6 +42,7 @@ This repository contains my solutions to various LeetCode problems.
 | 34  | [🚀 Search In A Binary Search Tree ](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SearchInBST.cpp)  |
 | 35  | [🚀 Delete Node in a BST ](https://leetcode.com/problems/delete-node-in-a-bst/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RmNodeInBST.cpp)  |
 | 36  | [🚀 Same Tree ](https://leetcode.com/problems/same-tree/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SameTree.cpp)  |
+| 37  | [🚀 Lowest Common Ancestor of a Binary Search Tree ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LCAInBST.cpp)  |
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
