@@ -41,6 +41,7 @@ This repository contains my solutions to various LeetCode problems.
 | 33  | [🚀 Remove Duplicates from Sorted List II ](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RemDupListII.cpp)  |
 | 34  | [🚀 Search In A Binary Search Tree ](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SearchInBST.cpp)  |
 | 35  | [🚀 Delete Node in a BST ](https://leetcode.com/problems/delete-node-in-a-bst/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RmNodeInBST.cpp)  |
+| 36  | [🚀 Same Tree ](https://leetcode.com/problems/same-tree/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SameTree.cpp)  |
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
