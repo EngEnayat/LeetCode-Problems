@@ -45,6 +45,7 @@ This repository contains my solutions to various LeetCode problems.
 | 37  | [🚀 Lowest Common Ancestor of a Binary Search Tree ](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LCAInBST.cpp)  |
 | 38  | [🚀 Insert Into A Binary Search Tree ](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/InsertIntoBST.cpp)  |
 | 39  | [🚀 Validate Binary Search Tree ](https://leetcode.com/problems/validate-binary-search-tree/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ValidateBST.cpp)  |
+| 40  | [🚀 Remove Nth Node From End Of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RmNthNodeList.cpp)  |
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
