@@ -48,6 +48,8 @@ This repository contains my solutions to various LeetCode problems.
 | 40  | [🚀 Remove Nth Node From End Of List ](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RmNthNodeList.cpp)  |
 | 41  | [🚀 Add Two Numbers ](https://leetcode.com/problems/add-two-numbers/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/addTwoNumbers.cpp)  |
 | 42  | [🚀 Convert Binary Number in a Linked List to Integer ](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/?envType=problem-list-v2&envId=linked-list)) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/BinaryListToDecimal.cpp)  |
+| 43  | [🚀 Kth Largest Element In A Stream ](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/kthLInStream.cpp)  |
+| 44  | [🚀 Kth Largest Element In An Array ](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/kthLInArray.cpp)  |
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
