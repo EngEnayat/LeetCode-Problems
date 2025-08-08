@@ -52,7 +52,7 @@ This repository contains my solutions to various LeetCode problems.
 | 44  | [🚀 Kth Largest Element In An Array ](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/kthLInArray.cpp)  |
 | 45  | [🚀 Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/topKFrequent.cpp)  |
 | 46  | [🚀 Most Frequent Even Element ](https://leetcode.com/problems/most-frequent-even-element/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MostFrequentEven.cpp)  |
-| 47  | [🚀 Major Element II ](https://leetcode.com/problems/Major-element-ii/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MajorElementII.cpp)  |
+| 47  | [🚀 Majority Element II ](https://leetcode.com/problems/Majority-element-ii/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MajorElementII.cpp)  |
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
