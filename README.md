@@ -54,6 +54,7 @@ This repository contains my solutions to various LeetCode problems.
 | 46  | [🚀 Most Frequent Even Element ](https://leetcode.com/problems/most-frequent-even-element/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MostFrequentEven.cpp)  |
 | 47  | [🚀 Majority Element II ](https://leetcode.com/problems/Majority-element-ii/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MajorElementII.cpp)  |
 | 48  | [🚀 Delete node In A Linked List ](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/DeleteNodeList.cpp)  |
+| 49  | [🚀 Swapping Nodes In A Linkded List ](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SwapNodelist.cpp)  |
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
