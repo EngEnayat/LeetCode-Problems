@@ -1,13 +1,27 @@
-class Solution {
+class KthLargest {
     public:
-        int findKthLargest(vector<int>& nums, int k) {
-            priority_queue<int, vector<int>, greater<int>> pq;
+        KthLargest(int k1, vector<int>& nums) {
+            k = k1;
             for(int i: nums)
             {
-                pq.push(i);
-                if(pq.size() > k) pq.pop();
+                add(i);
             }
-            return pq.top();
         }
+        
+        int add(int val) {
+            pq.push(val);
+            if(k < pq.size())
+                pq.pop();
+            return pq.top();
     
+        }
+    private:
+        std::priority_queue<int, vector<int> , greater<int>> pq;
+        int k;
     };
+    
+    /**
+     * Your KthLargest object will be instantiated and called as such:
+     * KthLargest* obj = new KthLargest(k, nums);
+     * int param_1 = obj->add(val);
+     */
