@@ -58,6 +58,7 @@ This repository contains my solutions to various LeetCode problems.
 | 50  | [🚀 Delete Nodes From Linked List Present In Array ](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/DeleteNodeInArray.cpp)  |
 | 51  | [🚀 Count And Say ](https://leetcode.com/problems/count-and-say/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/CountAndSay.cpp)  |
 | 52  | [🚀 Construct Binary Tree from Preorder and Inorder Traversal ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ConstractBT.cpp)  |
+| 53  | [🚀 Symmetric Tree ](https://leetcode.com/problems/symmetric-tree/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SymetricTree.cpp)  |
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
