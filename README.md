@@ -60,6 +60,7 @@ This repository contains my solutions to various LeetCode problems.
 | 52  | [🚀 Construct Binary Tree from Preorder and Inorder Traversal ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ConstractBT.cpp)  |
 | 53  | [🚀 Symmetric Tree ](https://leetcode.com/problems/symmetric-tree/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SymetricTree.cpp)  |
 | 54  | [🚀 Delete The Middle Node Of A Link List ](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/DelMidList.cpp)  |
+| 55  | [🚀 Intersection of two Arrays II ](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=problem-list-v2&envId=hash-table) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/interarrayii.cpp)  |
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
