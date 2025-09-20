@@ -65,7 +65,7 @@ This repository contains my solutions to various LeetCode problems.
 | 57  | [🚀 Find First and Last Position of Element in Sorted Array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/positionInArray.cpp)  |
 | 58  | [🚀 Plates Between Candles ](https://leetcode.com/problems/plates-between-candles/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/PlateBeetCandles.cpp)  |
 | 59  | [🚀 Range Sum Query - Immutable ](https://leetcode.com/problems/range-sum-query-immutable/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RangeSumQuery.cpp)  |
-| 60  | [🚀 Product Of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ProductExceptSelf.cpp|
+| 60  | [🚀 Product Of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ProductExceptSelf.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
