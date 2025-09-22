@@ -67,6 +67,7 @@ This repository contains my solutions to various LeetCode problems.
 | 59  | [🚀 Range Sum Query - Immutable ](https://leetcode.com/problems/range-sum-query-immutable/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RangeSumQuery.cpp)  |
 | 60  | [🚀 Product Of Array Except Self ](https://leetcode.com/problems/product-of-array-except-self/) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ProductExceptSelf.cpp)|
 | 61  | [🚀 Continuous Subarray Sum ](https://leetcode.com/problems/continuous-subarray-sum) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ContSubSum.cpp)|
+| 62  | [🚀 Count Elements With Maximum Frequency ](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/countMaxFreq.cpp)|
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
