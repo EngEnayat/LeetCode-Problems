@@ -69,7 +69,7 @@ This repository contains my solutions to various LeetCode problems.
 | 61  | [🚀 Continuous Subarray Sum ](https://leetcode.com/problems/continuous-subarray-sum) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/ContSubSum.cpp)|
 | 62  | [🚀 Count Elements With Maximum Frequency ](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/countMaxFreq.cpp)|
 | 63  | [🚀 Median Of Two Sorted Array ](https://leetcode.com/problems/median-of-two-sorted-arrays) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MedianOfArray.cpp)|
-
+| 64  | [🚀 3Sum ](https://leetcode.com/problems/3sum) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/3Sum.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
