@@ -71,6 +71,7 @@ This repository contains my solutions to various LeetCode problems.
 | 63  | [🚀 Median Of Two Sorted Array ](https://leetcode.com/problems/median-of-two-sorted-arrays) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MedianOfArray.cpp)|
 | 64  | [🚀 3Sum ](https://leetcode.com/problems/3sum) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/3Sum.cpp)|
 | 65  | [🚀 Merge K Sorted Lists ](https://leetcode.com/problems/merge-k-sorted-lists) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/mergeKSortedLists.cpp)|
+| 66  | [🚀  Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LangestSubString.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
