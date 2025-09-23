@@ -76,7 +76,7 @@ This repository contains my solutions to various LeetCode problems.
 | 68  | [🚀  Search In Rotated Sorted Array II ](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SeachInRotateII.cpp)|
 | 69  | [🚀  Find Numbers with Even Number of Digits ](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/FindEvenDigits.cpp)|
 | 70  | [🚀  Minimum Size Subarray Sum ](https://leetcode.com/problems/minimum-size-subarray-sum) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/minSizeSub.cpp)|
-| 71  | [🚀  Longest Harmonious Subsequence ](https://leetcode.com/problems/langest-harmonious-subsequence) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LanHarmonious.cpp)|
+| 71  | [🚀  Longest Harmonious Subsequence ](https://leetcode.com/problems/longest-harmonious-subsequence) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LanHarmonious.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
