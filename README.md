@@ -73,6 +73,7 @@ This repository contains my solutions to various LeetCode problems.
 | 65  | [🚀 Merge K Sorted Lists ](https://leetcode.com/problems/merge-k-sorted-lists) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/mergeKSortedLists.cpp)|
 | 66  | [🚀  Longest Substring Without Repeating Characters ](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LangestSubString.cpp)|
 | 67  | [🚀  Sort Colors ](https://leetcode.com/problems/sort-colors) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SortColors.cpp)|
+| 68  | [🚀  Search In Rotated Sorted Array II ](https://leetcode.com/problems/search-in-rotated-sorted-arrat-ii) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SeachInRotateII.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
