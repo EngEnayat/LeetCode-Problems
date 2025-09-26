@@ -78,6 +78,7 @@ This repository contains my solutions to various LeetCode problems.
 | 70  | [🚀  Minimum Size Subarray Sum ](https://leetcode.com/problems/minimum-size-subarray-sum) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/minSizeSub.cpp)|
 | 71  | [🚀  Longest Harmonious Subsequence ](https://leetcode.com/problems/longest-harmonious-subsequence) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LanHarmonious.cpp)|
 | 71  | [🚀   Partition Array According to Given Pivot ](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/partitinArrayPivot.cpp)|
+| 72  | [🚀   Plus One ](https://leetcode.com/problems/plus-one) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/PlusOne.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
