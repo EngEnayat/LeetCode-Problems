@@ -79,7 +79,7 @@ This repository contains my solutions to various LeetCode problems.
 | 71  | [🚀  Longest Harmonious Subsequence ](https://leetcode.com/problems/longest-harmonious-subsequence) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LanHarmonious.cpp)|
 | 71  | [🚀   Partition Array According to Given Pivot ](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/partitinArrayPivot.cpp)|
 | 72  | [🚀   Plus One ](https://leetcode.com/problems/plus-one) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/PlusOne.cpp)|
-| 73  | [🚀   Find The Difference ](https://leetcode.com/find-the-difference) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/FindDifference.cpp)|
+| 73  | [🚀   Find The Difference ](https://leetcode.com/problems/find-the-difference?envType=problem-list-v2&envId=hash-table) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/FindDifference.cpp)|
 
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
