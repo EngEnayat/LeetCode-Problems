@@ -80,7 +80,7 @@ This repository contains my solutions to various LeetCode problems.
 | 71  | [🚀   Partition Array According to Given Pivot ](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/partitinArrayPivot.cpp)|
 | 72  | [🚀   Plus One ](https://leetcode.com/problems/plus-one) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/PlusOne.cpp)|
 | 73  | [🚀   Find The Difference ](https://leetcode.com/problems/find-the-difference?envType=problem-list-v2&envId=hash-table) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/FindDifference.cpp)|
-| 74  | [🚀   Set Mismatch ](https://leetcode.com/problems/set-mismatch) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/setMismatch.cpp)|
+| 74  | [🚀   Set Mismatch ](https://leetcode.com/problems/set-mismatch) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/setMisMatch.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
