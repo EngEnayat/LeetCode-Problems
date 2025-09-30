@@ -84,6 +84,7 @@ This repository contains my solutions to various LeetCode problems.
 | 75  | [🚀   Maximum Count of Positive Integer and Negative Integer ](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MaxPosNeg.cpp)|
 | 76  | [🚀   Find Triangular Sum of an Array ](https://leetcode.com/problems/find-triangular-sum-of-an-array) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/TriangleSum.cpp)|
 | 77  | [🚀   Add Strings ](https://leetcode.com/problems/add-strings) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/AddStr.cpp)|
+| 78  | [🚀   Reverse String ](https://leetcode.com/problems/reverse-string) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RevStr.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
