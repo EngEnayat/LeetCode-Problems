@@ -85,6 +85,7 @@ This repository contains my solutions to various LeetCode problems.
 | 76  | [🚀   Find Triangular Sum of an Array ](https://leetcode.com/problems/find-triangular-sum-of-an-array) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/TriangleSum.cpp)|
 | 77  | [🚀   Add Strings ](https://leetcode.com/problems/add-strings) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/AddStr.cpp)|
 | 78  | [🚀   Reverse String ](https://leetcode.com/problems/reverse-string) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RevStr.cpp)|
+| 79  | [🚀   Largest Number ](https://leetcode.com/problems/largest-number) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/LargestNum.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
