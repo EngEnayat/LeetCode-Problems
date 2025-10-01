@@ -89,6 +89,7 @@ This repository contains my solutions to various LeetCode problems.
 | 80  | [🚀   Water Bottles ](https://leetcode.com/problems/water-bottles) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/WaterBottles.cpp)|
 | 81  | [🚀   Container With Most Water ](https://leetcode.com/problems/container-with-most-water) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/WaterContainer.cpp)|
 | 82  | [🚀   3Sum Closest ](https://leetcode.com/problems/3sum-closest) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/3SumClosest.cpp)|
+| 82  | [🚀   Count Number of Distinct Integers After Reverse Operations ](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/countDistinct.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
