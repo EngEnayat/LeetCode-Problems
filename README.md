@@ -90,6 +90,7 @@ This repository contains my solutions to various LeetCode problems.
 | 81  | [🚀   Container With Most Water ](https://leetcode.com/problems/container-with-most-water) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/WaterContainer.cpp)|
 | 82  | [🚀   3Sum Closest ](https://leetcode.com/problems/3sum-closest) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/3SumClosest.cpp)|
 | 83  | [🚀   Count Number of Distinct Integers After Reverse Operations ](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/countDistinct.cpp)|
+| 84  | [🚀   Reverse Nodes in k-Group ](https://leetcode.com/problems/reverse-nodes-in-k-group) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RevKGroups.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
