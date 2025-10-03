@@ -92,6 +92,7 @@ This repository contains my solutions to various LeetCode problems.
 | 83  | [🚀   Count Number of Distinct Integers After Reverse Operations ](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/countDistinct.cpp)|
 | 84  | [🚀   Reverse Nodes in k-Group ](https://leetcode.com/problems/reverse-nodes-in-k-group) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RevKGroups.cpp)|
 | 85  | [🚀   Search Insert Position ](https://leetcode.com/problems/search-insert-position) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SearchInsertPos.cpp)|
+| 86  | [🚀   Compute Decimal Representation ](https://leetcode.com/problems/compute-decimal-representation) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/DecimalRep.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
