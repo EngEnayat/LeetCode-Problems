@@ -96,6 +96,7 @@ This repository contains my solutions to various LeetCode problems.
 | 87  | [🚀   Add Binary ](https://leetcode.com/problems/add-binary) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/addBinary.cpp)|
 | 88  | [🚀   Successful Pairs of Spells and Potions ](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/SuccessfulPairs.cpp)|
 | 89  | [🚀   Reorder List ](https://leetcode.com/problems/reorder-list) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/reorderList.cpp)|
+| 90  | [🚀   Find the Index of the First Occurrence in a String ](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/firstIndexOccur.cpp.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
