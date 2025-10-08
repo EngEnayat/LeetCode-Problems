@@ -10,23 +10,43 @@
  */
 class Solution {
     public:
-        ListNode* addTwoNumbers(ListNode* headA, ListNode* headB) {
-            return add(headA, headB, 0);
-        }        
-    private:
-        ListNode* add(ListNode* l1, ListNode* l2, int carr)
-        {
-            if(!l1 && !l2)
+        ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+            if(!l1 || !l2) return !l1 ? l2 : l1;
+            l1 = reverseN(l1);
+            l2 = reverseN(l2);
+    
+            ListNode* dummy = new ListNode(0);
+            ListNode *temp = dummy;
+    
+            int carry =0;
+            while(l1 || l2 || carry)
             {
-                if(carr == 0) return nullptr;
-                ListNode* h = new ListNode(carr);
-                return h;
-            };
-            int sum = carr;
-            if(l1) sum += l1->val;
-            if(l2) sum+= l2->val;
-            ListNode *head = new ListNode(sum % 10);
-            head->next = add(l1 ? l1: nullptr, l2? l2 : nullptr, sum/10);
-            return head;
+                int sum = carry;
+                if(l1){
+                    sum += l1->val;
+                    l1 = l1->next;
+                }
+                if(l2){
+                    sum+= l2->val;
+                    l2 = l2->next;
+                }
+                carry = sum /10;
+                temp->next = new ListNode(sum %10);
+                temp = temp->next;
+            }
+    
+            dummy = reverseN(dummy->next);
+            return dummy;
+        }
+        ListNode* reverseN(ListNode* l)
+        {
+            if(!l || !l->next) return l;
+            ListNode* tail = l->next;
+            ListNode* newHead = reverseN(l->next);
+            tail->next = l;
+            l->next = nullptr;
+            return newHead;
         }
     };
+    
+    
