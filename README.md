@@ -99,6 +99,7 @@ This repository contains my solutions to various LeetCode problems.
 | 90  | [🚀   Find the Index of the First Occurrence in a String ](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/firstIndexOccur.cpp)|
 | 91  | [🚀   Add Two Numbers II ](https://leetcode.com/problems/add-two-numbers-ii) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/addTwoNumbers.cpp)|
 | 92  | [🚀    Compute Alternating Sum ](https://leetcode.com/problems/compute-alternating-sum) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/AlternateSum.cpp)|
+| 93  | [🚀    Taking Maximum Energy From the Mystic Dungeon ](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MaxEnergy.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
