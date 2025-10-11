@@ -100,6 +100,7 @@ This repository contains my solutions to various LeetCode problems.
 | 91  | [🚀   Add Two Numbers II ](https://leetcode.com/problems/add-two-numbers-ii) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/addTwoNumbers.cpp)|
 | 92  | [🚀    Compute Alternating Sum ](https://leetcode.com/problems/compute-alternating-sum) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/AlternateSum.cpp)|
 | 93  | [🚀    Taking Maximum Energy From the Mystic Dungeon ](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MaxEnergy.cpp)|
+| 94  | [🚀   Rotate List ](https://leetcode.com/problems/rotate-list) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/rotateList.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
