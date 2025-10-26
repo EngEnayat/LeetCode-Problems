@@ -102,7 +102,7 @@ This repository contains my solutions to various LeetCode problems.
 | 93  | [🚀    Taking Maximum Energy From the Mystic Dungeon ](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/MaxEnergy.cpp)|
 | 94  | [🚀   Rotate List ](https://leetcode.com/problems/rotate-list) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/rotateList.cpp)|
 | 95  | [🚀   Remove Element ](https://leetcode.com/problems/remove-element) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/RemElement.cpp)|
-| 96  | [🚀   Check If Digits Are Equal in String After Operations I ](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/equaldigits.cpp)|
+| 96  | [🚀   Simple Bank System ](https://leetcode.com/problems/simple-bank-system) | [💻 Solution](https://github.com/EngEnayat/LeetCode-Problems/blob/main/bankSystem.cpp)|
 ##  How to Use
 - Click on the **Problem Name** to view it on LeetCode.  
 - Click on **Solution** to see my implementation on GitHub.
